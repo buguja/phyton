@@ -7,7 +7,7 @@ suma= variableA + variableB
 # Resta
 resta= variableB - variableA
 
-# Multiplicación
+# Multiplicacion
 multiplicacion= variableA * variableB
 
 # Exponente. base ** potencia
@@ -16,8 +16,8 @@ exponente= variableA ** 2
 # Divición entera
 divicionEntera= variableB / variableA
 
-# Divición real
+# Divicion real
 divicionReal= float(variableB) / variableA
 
-# Módulo
+# Modulo
 modulo= variableB % 20
